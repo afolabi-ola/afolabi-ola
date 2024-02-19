@@ -46,7 +46,7 @@ A dynamic and steadfast Front-End Engineer with more than three years (3yrs) of 
  
 ## &#x1f4c8; GitHub Stats (Current Account)
 
-<a href="https://github.com/domchu">
+<a href="https://github.com/afolabi-ola">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=afolabi-ola&count_private=true&show_icons=true&theme=tokyonight" alt="Afolabi Quadri Olasunkanmi's GitHub Stats" />
 </a>
 
