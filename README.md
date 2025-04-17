@@ -107,3 +107,7 @@ A dynamic and steadfast Front-End Engineer with more than three years (3yrs) of 
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
 <!-- Shields: https://shields.io/ -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+
+### 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=afolabi-ola&theme=gruvbox)
+
