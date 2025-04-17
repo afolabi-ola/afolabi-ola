@@ -109,5 +109,5 @@ A dynamic and steadfast Front-End Engineer with more than three years (3yrs) of 
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
 
 ### 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=afolabi-ola&theme=monokai)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Reward-steve&theme=radical&no-bg=true&no-frame=true&margin-w=15)
 
