@@ -6,8 +6,8 @@
 
 ### I am ✨ Afolabi Quadri Olasunkanmi (afolabi-ola) ✨,
 A dynamic and steadfast Front-End Engineer with more than three years (3yrs) of expertise in constructing robust websites and applications within dynamic, collaborative settings. A creative force committed to delivering innovative solutions. You can also find me on 
-<!--<a href="https://www.linkedin.com/in/dominic-ochu" rel="nofollow noreferrer">
-  <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn-->
+<a href="https://www.linkedin.com/in/quadri-afolabi-6238312a6/" rel="nofollow noreferrer">
+  <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
 </a>, +2348124746546.
 
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
@@ -18,8 +18,8 @@ A dynamic and steadfast Front-End Engineer with more than three years (3yrs) of 
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-TailwindCSS-informational?style=flat&logo=tailwindcss&logoColor=white&color=2bbc8a)
-<!--![](https://img.shields.io/badge/Code-NextJs-informational?style=flat&logo=NeXT&logoColor=white&color=2bbc8a)-->
-<!--![](https://img.shields.io/badge/Tools-Jest-informational?style=flat&logo=jest&logoColor=white&color=2bbc8a)-->
+![](https://img.shields.io/badge/Code-NextJs-informational?style=flat&logo=NeXT&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Jest-informational?style=flat&logo=jest&logoColor=white&color=2bbc8a)
 <!--![](https://img.shields.io/badge/Tools-SemanticUI-informational?style=flat&logo=semantic-ui-react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MaterialUI-informational?style=flat&logo=material-ui-materialui&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-ChakraUI-informational?style=flat&logo=chakra-ui-chakraui&logoColor=white&color=2bbc8a)-->
